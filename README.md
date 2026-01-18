@@ -17,7 +17,7 @@ This repository is designed for **fast lookup**, learning reinforcement, and cro
 
 ---
 
-## 💻 Languages Included
+## Languages Included
 
 The repository includes reference material for:
 
@@ -36,7 +36,7 @@ The repository includes reference material for:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 codebook-notes/
@@ -68,7 +68,7 @@ Each file focuses on **one concept**, with:
 
 ---
 
-## 📌 Status
+## Status
 
 - Actively maintained
 -  Continuously expanding reference
